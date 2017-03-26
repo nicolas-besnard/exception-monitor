@@ -2,13 +2,13 @@
 
 Why this project ?
 ------------------
-I'm working for a web agency that need to monitor more than 50 websites.
+I'm working for a web agency that needs to monitor more than 50 websites.
 
 We are using a custom solution, because using a SaaS solution would be too expensive.
 
 Furthermore, our intern solution is developer oriented and project owners doesn't know what is really happening.
 
-This project goal is to create an application that will be focused on project owner's use.
+This project goal is to create an application that will be focused on project owners' use.
 
 Key features
 ------------
